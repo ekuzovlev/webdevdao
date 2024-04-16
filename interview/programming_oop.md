@@ -39,11 +39,11 @@
 
       Например, `a` — это `Integer`. В этом случае позже мы не сможем присвоить, например, значение `a = "slovo"`, это вызовет ошибку.
 
-      Статическая типизация используется языками Ada, C, C++, C#, Go, JADE, Java, Fortran, Haskell, ML, Pascal, Scala.
+      Статическая типизация используется языками Ada, C, C++, C#, Go, JADE, Java, Fortran, Haskell, ML, Pascal, Scala, TypeScript.
 
       Динамическая типизация — противоположный принцип программирования, когда переменная связывается с типом в момент присваивания значения, а не в момент объявления. Таким образом, одной и той же переменной в разных участках программы можно присваивать значения различных типов.
 
-      Динамическая типизация используется языками Perl, Smalltalk, Python, Objective-C, Ruby, JavaScript, TypeScript, Groovy, ColdFusion, Lua, Lisp, PHP.
+      Динамическая типизация используется языками Perl, Smalltalk, Python, Objective-C, Ruby, JavaScript, Groovy, ColdFusion, Lua, Lisp, PHP.
 
       https://www.youtube.com/watch?v=1dwJvRw_h7A&t=168
     </details>
